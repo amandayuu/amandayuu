@@ -3,9 +3,12 @@
 Meu nome verdadeiro é Amanda, mas sou conhecida também como Yuuh!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuka1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 🌱 Curto demais frontend, atualmente estou estudando ReactJs e Redux
 
+
 💬 Faço o curso de Análise e Desenvolvimento de Sistemas
+
 
 🔭 Atualmente faço estágio como desenvolvedora web frontend 🤓
 
