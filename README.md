@@ -1,6 +1,6 @@
 ### Hi there, it's me, Yuuh! 👋
 
-Meu nome verdadeiro é Amanda, mas sou conhecida também como Yuuh!
+Meu nome é Amanda, mas sou conhecida também como Yuuh!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuka1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
