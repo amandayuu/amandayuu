@@ -7,7 +7,7 @@ Meu nome  é Amanda, mas sou conhecida também como Yuuh!
 🌱 Curto demais frontend, atualmente estou estudando ReactJs e Redux
 
 
-🔭 Atualmente faço estágio como desenvolvedora web frontend 🤓
+🔭 Faço estágio como desenvolvedora web frontend 🤓
 
 
 ⚡ Um pouco mais sobre mim: 
