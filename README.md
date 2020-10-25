@@ -15,7 +15,7 @@ Meu nome verdadeiro é Amanda, mas sou conhecida também como Yuuh!
 
 ⚡ Um pouco mais sobre mim: 
   - Além de programação, me interesso muito por jogos, principalmente aqueles do estilo sandbox;
-  - AMO desenhar e em meu tempo livre abro encomendas de ilustração 👯
+  - AMO desenhar e em meu tempo livre abro encomendas de ilustração 👯 [ Se estiver curiosx esse é o meu portifólio no Behance https://www.behance.net/little_yuuh ] 
   - Filmes de terror são os meu favoritos! 
 
 <!--
