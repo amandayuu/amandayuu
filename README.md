@@ -1,14 +1,14 @@
 ### Hi there, it's me, Yuuh! 👋
 
-Bem vindx ao meu GitHub!
+Bem vindo(a) ao meu GitHub!
 
 Sou uma FrontEnd Developer 🤓
 
-Minha stack principal: ReactJs
+- Minha stack principal: ReactJs
 
-Outras stacks que possuo conhecimento: NodeJS, PHP, C, Python
+- Outras stacks que possuo conhecimento: NodeJS, PHP, C, Python
 
-Utilizo muito em meus projetos:
+- Utilizo muito em meus projetos:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuka1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
