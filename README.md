@@ -3,7 +3,9 @@
 Bem vindx ao meu GitHub!
 
 Sou uma FrontEnd Developer 🤓
+
 Minha stack: 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuka1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
