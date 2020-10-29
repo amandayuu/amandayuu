@@ -22,7 +22,7 @@ Sou uma FrontEnd Developer 🤓
   - AMO desenhar e em meu tempo livre abro encomendas de ilustração 👯 [ Se estiver curiosx esse é o meu portifólio no Behance https://www.behance.net/little_yuuh ] 
   - Filmes de terror são os meu favoritos! 
 
- 📫 Contato: https://www.linkedin.com/in/amanda-yuri-kanashiro/
+ 📫 Contato: <a href="https://www.linkedin.com/in/amanda-yuri-kanashiro/">Linkedin</a> || amanda.kanashiro91@gmail.com
 
 <!--
 **Ayuka1/Ayuka1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
