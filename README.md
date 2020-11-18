@@ -6,7 +6,7 @@ Sou uma FrontEnd Developer 🤓
 
 - Minha stack principal: ReactJs
 
-- Outras stacks que possuo conhecimento: NodeJS, PHP, C, Python
+- Outras stacks que possuo conhecimento: NodeJS, PHP
 
 - Utilizo muito em meus projetos:
 
