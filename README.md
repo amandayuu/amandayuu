@@ -6,7 +6,7 @@ Sou uma desenvolvedora front-end 🤓
 
 - Minha stack principal: ReactJs
 
-- Outras stacks que possuo conhecimento: NodeJS, PHP
+- Sobre backend: NodeJS, PHP
 - Também sei: jest e enzyme (TDD) , Electron 
 
 - Utilizo muito em meus projetos:
