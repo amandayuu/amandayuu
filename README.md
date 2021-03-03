@@ -2,11 +2,12 @@
 
 Bem vindo(a) ao meu GitHub!
 
-Sou uma FrontEnd Developer 🤓
+Sou uma desenvolvedora front-end 🤓
 
 - Minha stack principal: ReactJs
 
 - Outras stacks que possuo conhecimento: NodeJS, PHP
+- Também sei: jest e enzyme (TDD)
 
 - Utilizo muito em meus projetos:
 
