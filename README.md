@@ -3,6 +3,7 @@
 Bem vindo(a) ao meu GitHub!
 
 Sou uma desenvolvedora front-end 🤓
+<img src="https://img.shields.io/badge/ReactJs-2CFFEE?style=for-the-badge&logo=react&logoColor=000&labelColor=2CFFEE" />
 
 - Minha stack principal: ReactJs
 
@@ -12,6 +13,7 @@ Sou uma desenvolvedora front-end 🤓
 - Utilizo muito em meus projetos:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandayuu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img width="350px" src="https://github-readme-stats.vercel.app/api?username=amandayuu&hide=contribs,prs" />
 
 <!-- <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandayuu&langs_count=5)](https://github.com/joaopealves/github-readme-statsl" /> -->
 
