@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.linkedin.com/in/amanda-yuri-kanashiro/">
+<!-- <a href="https://www.linkedin.com/in/amanda-yuri-kanashiro/">
  <img src="https://camo.githubusercontent.com/d59cef7876e9caf307ae8a5ea1b6ccbade60109e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50617472696369614d6173686962612d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f70617472696369612d6d6173686962612f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-AmandaKanashiro-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/amanda-yuri-kanashiro/" style="max-width:100%;">
-  </a>
+  </a> -->
   
  
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ayuka1&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
