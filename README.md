@@ -11,9 +11,9 @@ Sou uma desenvolvedora front-end 🤓
 
 - Utilizo muito em meus projetos:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandayuu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandayuu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
+<img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandayuu&langs_count=5)](https://github.com/joaopealves/github-readme-statsl" />
 
 
 🔭 Faço estágio como desenvolvedora web frontend 
