@@ -3,9 +3,9 @@
 Bem vindo(a) ao meu GitHub!
 
 Sou uma desenvolvedora front-end 🤓
-<img src="https://img.shields.io/badge/ReactJs-2CFFEE?style=for-the-badge&logo=react&logoColor=000&labelColor=2CFFEE" />
 
-- Minha stack principal: ReactJs
+
+- Minha stack principal: <img src="https://img.shields.io/badge/ReactJs-2CFFEE?style=for-the-badge&logo=react&logoColor=000&labelColor=2CFFEE" />
 
 - Sobre backend: NodeJS, PHP
 - Também sei: jest e enzyme (TDD) , Electron 
