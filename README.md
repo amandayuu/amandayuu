@@ -2,13 +2,13 @@
 
 Bem vindo(a) ao meu GitHub!
 
-Sou uma desenvolvedora front-end 🤓
+Sou uma desenvolvedora front-end jr🤓🔭 
 
 
-- Minha stack principal: ReactJs
-
+- Minha stack principal: ReactJs, Vue
 - Sobre backend: NodeJS, PHP
-- Também sei: jest e enzyme (TDD) , Electron 
+- Também sei: jest e enzyme (TDD) ,Electron , mexer com chatbots
+
 
 - Utilizo muito em meus projetos:
 
@@ -19,7 +19,6 @@ Sou uma desenvolvedora front-end 🤓
 <!-- <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandayuu&langs_count=5)](https://github.com/joaopealves/github-readme-statsl" /> -->
 
 
-🔭 Faço estágio como desenvolvedora web frontend 
 
 ⚡ Um pouco mais sobre mim: 
   - Além de programação, me interesso muito por jogos, principalmente aqueles do estilo sandbox;
