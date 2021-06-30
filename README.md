@@ -7,7 +7,8 @@ Sou uma desenvolvedora front-end jr🤓🔭
 
 - Minha stack principal: ReactJs, Vue
 - Sobre backend: NodeJS, PHP
-- Também sei: jest e enzyme (TDD) ,Electron , mexer com chatbots
+- Também sei mexer com: jest e enzyme (TDD) ,Electron , Chatbots
+- Sobre banco de dados: MySQL, MariaDB, SQL, PostgreSQL
 
 
 - Utilizo muito em meus projetos:
