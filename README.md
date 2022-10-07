@@ -5,9 +5,9 @@ Bem vindo(a) ao meu GitHub!
 Sou uma desenvolvedora front-end jr🤓🔭 
 
 
-- Minha stack principal: Vue2 e Vue3
+- Minha stack principal: Vue2
 - Sobre backend: NodeJS
-- Estou estudando sobre: Vue router, Vite, RSCSS
+- Estou estudando sobre:  Vue3, Vue router, Vite, RSCSS
 <!-- - Também sei mexer com: jest e enzyme (TDD) ,Electron , Chatbots
 - Sobre banco de dados: MySQL, MariaDB, SQL, PostgreSQL -->
 
