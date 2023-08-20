@@ -5,8 +5,8 @@ Bem vindo(a) ao meu GitHub!
 Sou uma desenvolvedora front-end jr🤓🔭 
 
 
-- Minha stack principal: Vue2 e Vue 3
-- Sobre backend: NodeJS
+- Minha stack principal: Vue.js
+- Sobre backend: NodeJS - NestJs
 - Estou estudando sobre:  Pinia, Jest
 <!-- - Também sei mexer com: jest e enzyme (TDD) ,Electron , Chatbots
 - Sobre banco de dados: MySQL, MariaDB, SQL, PostgreSQL -->
